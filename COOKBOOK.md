@@ -50,15 +50,16 @@ A wrapper function for the `dev.off()` function.
 
 # How to run ?
 
-1. Pull this repository into local environment
-2. Check if the following files are in current working directory
+1. Pull this repository into local environment.
+2. Place `household_power_consumption.txt` into the working directory.
+2. Check if the following files are in current working directory.
       * `household_power_consumption.txt`
 	  * `functions.R`
 	  * `plot1.R`
 	  * `plot2.R`
 	  * `plot3.R`
 	  * `plot4.R`
-3. Execute the following command
+3. Execute the following command.
 
 ```
 source("./plot1.R");
