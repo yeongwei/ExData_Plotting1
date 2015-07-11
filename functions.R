@@ -161,7 +161,7 @@ preparePng <- function(fileName) {
   png(
     filename = fileName, 
     width = 480, height = 480,
-    units = "px", bg = "white")
+    units = "px", bg = "transparent")
 }
 
 ## A wrapper call to the dev.off()
